@@ -1,0 +1,14 @@
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.AssemblyInfoInputs.cache
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.AssemblyInfo.cs
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.csproj.CoreCompileInputs.cache
+C:\amst5\project\AMST5_Task19_Tarefa\bin\Debug\net8.0\AMST5_Task19_Tarefa.exe
+C:\amst5\project\AMST5_Task19_Tarefa\bin\Debug\net8.0\AMST5_Task19_Tarefa.deps.json
+C:\amst5\project\AMST5_Task19_Tarefa\bin\Debug\net8.0\AMST5_Task19_Tarefa.runtimeconfig.json
+C:\amst5\project\AMST5_Task19_Tarefa\bin\Debug\net8.0\AMST5_Task19_Tarefa.dll
+C:\amst5\project\AMST5_Task19_Tarefa\bin\Debug\net8.0\AMST5_Task19_Tarefa.pdb
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.dll
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\refint\AMST5_Task19_Tarefa.dll
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.pdb
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\AMST5_Task19_Tarefa.genruntimeconfig.cache
+C:\amst5\project\AMST5_Task19_Tarefa\obj\Debug\net8.0\ref\AMST5_Task19_Tarefa.dll
